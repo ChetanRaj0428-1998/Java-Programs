@@ -1,0 +1,5 @@
+1. click set up and set up in C:\ drive 
+2. keep clicking next
+3. last click exit setup
+4. open masm611 folder
+5. copy the contents of BINR folder to BIN

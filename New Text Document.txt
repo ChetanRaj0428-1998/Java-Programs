@@ -1,0 +1,9 @@
+
+import xyz.*;
+
+public class Mol{
+public static void main(String[] a){
+Mol l=new Mol();
+System.out.print("lll");
+}
+}

@@ -1,0 +1,10 @@
+
+
+.model tiny
+.code
+.startup
+movah,01h
+int 21h
+.exit
+end
+
